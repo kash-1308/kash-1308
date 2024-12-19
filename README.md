@@ -15,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kashishsahu113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashishsahu113" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kashishsahu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kashishsahu/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/kashishsahu1308/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kashishsahu1308/?hl=en" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kashishsahu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/kashishsahu/" height="30" width="40" /></a>
+<a href="https://instagram.com/kashishsahu1308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/kashishsahu1308/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
